@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "fb492630f040a9e355b28606179a0863f753cc74",
+    "author": "Franz Krah <f.krah@mailbox.org>",
+    "time": "2021-01-28 13:31:15",
+    "files": 7,
+    "merge": true,
+    "message": "Merge pull request #12 from kita-kitsune/master\n\nMerge improoved output code"
+  },
+  "repo": "https://github.com/ropensci/rusda",
+  "pkg": "rusda"
+}
